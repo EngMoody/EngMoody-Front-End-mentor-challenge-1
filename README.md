@@ -1,2 +1,1 @@
-# EngMoody-Front-End-mentor-challenge-1
-Frontend Mentor | Clipboard landing page
+Hello, this is my first project on this site. I am very proud of completing this challenge, and I look forward to passing more challenges
